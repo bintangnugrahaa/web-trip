@@ -8,7 +8,6 @@ This repository contains the HTML and CSS code for the Star Trip website. Star T
 - [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Features
 
