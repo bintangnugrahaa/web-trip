@@ -25,7 +25,7 @@ The Star Trip website includes the following sections:
 Screenshots of the website's various sections can be found below:
 
 - Banner
-  ![Screenshot Banner](https://imgur.com/sOfycyL)
+  ![Screenshot Banner](https://imgur.com/0M5Q7I3)
 - Featured Tours
   ![Screenshot Banner](https://imgur.com/S6YjLQd)
 - About Us
